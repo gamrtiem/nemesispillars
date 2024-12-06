@@ -1,0 +1,10 @@
+﻿{
+	"name": "nemesispillars",
+	"version_number": "1.0.0",
+	"author": "icebro",
+	"website_url": "https://github.com/gamrtiem/nemesispillars",
+	"description": "make it so you only need 2 pillars for commencement ..,.,, like risky mod !! configurable ,.,",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2117"
+	]
+}
