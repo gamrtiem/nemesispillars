@@ -18,7 +18,7 @@ namespace NemesisPillars
         
         public void Awake()
         {
-            ConfigEntry<float> pillarConfig = Config.Bind<float>("color",
+            ConfigEntry<float> pillarConfig = Config.Bind<float>("pillars",
                 "pillars",
                 2,
                 "how many pillars required ,, note going over 4 might softlock you if you cant pillar skip ,,..,,.,");
