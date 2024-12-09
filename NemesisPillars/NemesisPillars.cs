@@ -21,7 +21,7 @@ namespace NemesisPillars
             ConfigEntry<float> pillarConfig = Config.Bind<float>("pillars",
                 "pillars",
                 2,
-                "how many pillars required ,, note going over 4 might softlock you if you cant pillar skip ,,..,,.,");
+                "how many pillars required ,, note setting it manually to values outside the slider might softlock you if you cant pillar skip ,,..,,.,");
 
             SliderConfig slider = new SliderConfig();
             slider.max = 6;
