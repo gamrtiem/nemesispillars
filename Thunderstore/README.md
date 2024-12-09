@@ -1,16 +1,8 @@
-# makes the ready button red
-just evil like that ,..,<br>
-yeah .....,<br>
-whatre yuo gonna do about it .,.,.,,.,., <br>
+# sets the pillars required for commencement to 2 
+umm ,..,  <br>
+it literally just does that .,,..,.,,.,<br>
+made because to my knowledge there isnt a mod that does this standalone from [risky mod](https://thunderstore.io/package/Risky_Lives/RiskyMod/) and i dont like doing 4 pillar s,.,.,.,.,,,,.,,,.,,,,.,.,.,.,<br><br><br><br><br><br><br><br>
+oh and also youcan configure it i guess ,,.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![pov me not doing 4 pillars   !! ](https://media1.tenor.com/m/hm7-qu4T9vEAAAAd/marisa-kirisame-temmerson.gif "yay !!! yippie !!!!!!!!! wahooo !!!!!!!!!!!!!!!!!! ")
 
-
-
-
-
-
-thats what i thought .,.,.,.,.,.,.,,,.,. <br>
-
-
-![me goingh yeahhh !! woooo!!!!!!!!!! yippiieiie  !!!woooooooo!!! yeahhhh  !! ](https://media1.tenor.com/m/yG-n8BTJk0kAAAAd/konata-konata-izumi.gif "this is me rn ,.. (not you because i said so .,.,.")
